@@ -1,9 +1,6 @@
-## [PR Title](https://leadforensics.atlassian.net/browse/PLAT-####)
+## [PR Title](https://leadforensics.atlassian.net/browse/<JIRA_ID>)
 
 <PR description (if any)>
 
 ### Updates
 * <bulleted list of updates made>
-
-### Attachments
-<videos and images to support PR (if any)>
