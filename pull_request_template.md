@@ -7,7 +7,6 @@ _High_level_PR_description_
 
 ---
 
-- [ ] PR updated with description and link to Jira
 - [ ] Package dependencies have been updated (where possible)
 - [ ] Documentation has been updated
 - [ ] Automated tests have been updated
